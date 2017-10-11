@@ -1,0 +1,12 @@
+---
+title: Manifesto
+date: "2017-10-10"
+---
+
+FUCK NAZIS
+
+FUCK CAPITALISM
+
+FUCK EVERYTHING
+
+ESPECIALLY MINE
