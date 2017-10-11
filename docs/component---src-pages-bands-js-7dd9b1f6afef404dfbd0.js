@@ -1,0 +1,2 @@
+webpackJsonp([0x88f1060f545c],{233:function(e,t,l){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=l(2),a=u(n),f=l(48),d=(u(f),function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Bands"),a.default.createElement("ul",null,a.default.createElement("li",null,"None yet :'(")))});t.default=d,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-bands-js-7dd9b1f6afef404dfbd0.js.map

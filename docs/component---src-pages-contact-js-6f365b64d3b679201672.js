@@ -1,0 +1,2 @@
+webpackJsonp([70144966829960],{234:function(e,l,t){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}l.__esModule=!0;var a=t(2),n=u(a),d=t(48),o=(u(d),function(){return n.default.createElement("div",null,n.default.createElement("h1",null,"Contact us"),"Email Mel here.",n.default.createElement("p",null,n.default.createElement("a",{href:"mailto:melody@melody.blue"},"melody@melody.blue")))});l.default=o,e.exports=l.default}});
+//# sourceMappingURL=component---src-pages-contact-js-6f365b64d3b679201672.js.map

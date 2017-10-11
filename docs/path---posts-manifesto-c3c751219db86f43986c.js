@@ -1,0 +1,2 @@
+webpackJsonp([0xf218a6b79d0d],{368:function(t,p){t.exports={data:{markdownRemark:{html:"<p>FUCK NAZIS</p>\n<p>FUCK CAPITALISM</p>\n<p>FUCK EVERYTHING</p>\n<p>ESPECIALLY MINE</p>",frontmatter:{title:"Manifesto"}}},pathContext:{slug:"/posts/manifesto/"}}}});
+//# sourceMappingURL=path---posts-manifesto-c3c751219db86f43986c.js.map
