@@ -1,2 +1,0 @@
-webpackJsonp([57097921301218],{369:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Signed a new band! They suck!</p>",frontmatter:{title:"Shitty new talent!"}}},pathContext:{slug:"/posts/talent/"}}}});
-//# sourceMappingURL=path---posts-talent-03bdf51c97f30914cf9f.js.map

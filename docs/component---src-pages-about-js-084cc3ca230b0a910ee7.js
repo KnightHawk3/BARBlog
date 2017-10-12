@@ -1,2 +1,0 @@
-webpackJsonp([0xefeaa6d1881d],{232:function(e,t,l){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var u=l(2),a=n(u),d=l(48),o=(n(d),function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"About Us"),a.default.createElement("p",null,"Brainchild of Mel and Co. Who knows why we are doing this."))});t.default=o,e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-about-js-084cc3ca230b0a910ee7.js.map
