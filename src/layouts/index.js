@@ -7,7 +7,7 @@ import './index.css'
 
 const ListLink = props =>
   <li style={{ display: `inline-block`, marginRight: `1rem` }}>
-    <Link to={props.to}>
+    <Link to={props.to} style={{color: 'black', textDecoration: 'none', fontFamily: 'sans'}}>
       {props.children}
     </Link>
   </li>
@@ -28,15 +28,7 @@ const Header = () => (
       }}
     >
       <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: 'black',
-            textDecoration: 'none',
-          }}
-        >
-          Black and Red Records
-        </Link>
+        <Link to="/" style={{ color: 'black', textDecoration: 'none', }}> Barricade Records </Link>
       </h1>
       <ul style={{ listStyle: `none`, float: `right` }}>
         <ListLink to="/">Home</ListLink>

@@ -1,6 +1,6 @@
 ---
-title: "Shitty new talent!"
+title: "Awesome new talent!"
 date: "2017-10-11"
 ---
 
-Signed a new band! They suck!
+Signed a new band!

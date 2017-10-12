@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Black and Black Records`,
+    title: `Barricade Records`,
   },
   plugins: [
     {
@@ -10,13 +10,8 @@ module.exports = {
         path: `${__dirname}/src/`,
       },
     },
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography.js`,
-      },
-    },
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-remark`,
   ],
+  pathPrefix: `/BARBlog`
 }

@@ -4,7 +4,7 @@ import Link from 'gatsby-link'
 const AboutPage = () => (
   <div>
     <h1>About Us</h1>
-    <p>Brainchild of Mel and Co. Who knows why we are doing this.</p>
+    <p>Brand new DIY Punk Record Label coming out of Brisbane.</p>
   </div>
 )
 
