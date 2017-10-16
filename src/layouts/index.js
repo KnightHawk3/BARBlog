@@ -17,7 +17,7 @@ const ListLink = props =>
 const Header = () => (
   <div className="row" style={{
     borderBottom: '1px solid rgba(0, 0, 0, 0.05)',
-    height: '56px',
+    height: '64px',
     alignItems: 'center'
   }}>
     <div style={{ margin: '0 auto' }}>
