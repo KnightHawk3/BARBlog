@@ -1,1 +1,1 @@
-html *{font-family:Lato,sans-serif;font-size:"16px";outline-color:rgba(0,0,0,.8);-webkit-text-decoration-color:rgba(0,0,0,.8);text-decoration-color:rgba(0,0,0,.8)}a:hover{color:#ff3535}
+html *{font-family:Lato,sans-serif;font-size:"16px";outline-color:rgba(0,0,0,.8);-webkit-text-decoration-color:rgba(0,0,0,.8);text-decoration-color:rgba(0,0,0,.8)}a:hover{color:#ff3535}.centerUp{margin:"0 auto";margin-left:22.5%}@media screen and (min-width:0px) and (max-width:770px){.hideMobile{display:none}.centerUp{margin:"0 auto";margin-left:5%}}
