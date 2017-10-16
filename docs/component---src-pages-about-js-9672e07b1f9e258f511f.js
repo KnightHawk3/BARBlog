@@ -1,0 +1,2 @@
+webpackJsonp([0xefeaa6d1881d],{179:function(e,t,n){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var a=n(2),l=u(a),r=n(42),o=(u(r),function(){return l.default.createElement("div",null,l.default.createElement("h1",null,"About Us"),l.default.createElement("p",null,"Brand new DIY Punk Record Label coming out of Brisbane."),l.default.createElement("p",null,"Barricade Tires by Juan Pablo Bravo from the Noun Project"))});t.default=o,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-about-js-9672e07b1f9e258f511f.js.map

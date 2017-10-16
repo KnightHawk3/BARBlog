@@ -1,2 +1,0 @@
-webpackJsonp([0xefeaa6d1881d],{179:function(e,t,n){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=n(2),a=u(l),d=n(42),r=(u(d),function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"About Us"),a.default.createElement("p",null,"Brand new DIY Punk Record Label coming out of Brisbane."))});t.default=r,e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-about-js-5eb2d05555609d6c4e99.js.map
