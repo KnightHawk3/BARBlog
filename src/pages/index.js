@@ -4,9 +4,6 @@ import Link from 'gatsby-link'
 const IndexPage = ({ data }) => (
   <div>
     <h1>Homepage</h1>
-    <h4>
-      {data.allMarkdownRemark.totalCount} Posts
-      </h4>
     {data.allMarkdownRemark.edges.map(({ node }) =>
       <div key={node.id}>
         <Link
