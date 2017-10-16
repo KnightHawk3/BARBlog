@@ -5,8 +5,8 @@
       "component---src-pages-index-js-38b9d1b07e40a4facc6f.js.map"
     ],
     "path---files": [
-      "path---files-6373335863f27fa1a252.js",
-      "path---files-6373335863f27fa1a252.js.map"
+      "path---files-390558543a019ceec055.js",
+      "path---files-390558543a019ceec055.js.map"
     ],
     "component---src-pages-files-js": [
       "component---src-pages-files-js-55a98b4825ef6c98588b.js",
@@ -33,12 +33,16 @@
       "component---src-layouts-index-js-e382315158d2b20df3ed.js.map"
     ],
     "path---index": [
-      "path---index-71b8c3ba0f61763bdfce.js",
-      "path---index-71b8c3ba0f61763bdfce.js.map"
+      "path---index-fc1458deeab66fda081d.js",
+      "path---index-fc1458deeab66fda081d.js.map"
     ],
     "component---src-pages-bands-js": [
       "component---src-pages-bands-js-7dd9b1f6afef404dfbd0.js",
       "component---src-pages-bands-js-7dd9b1f6afef404dfbd0.js.map"
+    ],
+    "path---posts-test-post": [
+      "path---posts-test-post-41bd2bf96b235f1a09ef.js",
+      "path---posts-test-post-41bd2bf96b235f1a09ef.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -61,9 +65,9 @@
       "path---contact-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-e004d4afefcfc26acc86.js",
+      "app-c5a1a191a186dad0a5fe.js",
       "build-js-styles.css",
-      "app-e004d4afefcfc26acc86.js.map",
+      "app-c5a1a191a186dad0a5fe.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
